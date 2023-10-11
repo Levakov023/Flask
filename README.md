@@ -1,5 +1,5 @@
 # Seminarski rad iz predmeta softversko inženjerstvo 2
-Student : Mario Simak IT 38/19
+Student : Nikola Levakov
 #
 tema : Sudstvo , evidencija sudskih postupaka
 ## Kako pokrenuti
